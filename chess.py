@@ -127,7 +127,7 @@ class Bishop(Chess_Piece):
 
 #main code
 if __name__ == '__main__':
-    print("Welcome to the Chess Game!")
+    print("Welcome to the Chess Game!\n Get ready to play. ♟️")
     board = Board()
     board.draw()
     while True:
